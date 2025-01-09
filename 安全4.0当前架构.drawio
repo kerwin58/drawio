@@ -4,6 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="npg-B8WdXjfn3l7shgS7-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="npg-B8WdXjfn3l7shgS7-51" target="npg-B8WdXjfn3l7shgS7-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="661" />
+              <mxPoint x="910" y="149" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="npg-B8WdXjfn3l7shgS7-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;一部手机管安全4.0架构&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="20" width="400" height="60" as="geometry" />
         </mxCell>
@@ -158,14 +166,6 @@
         </mxCell>
         <mxCell id="npg-B8WdXjfn3l7shgS7-77" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;" vertex="1" parent="1">
           <mxGeometry x="781.4" y="118.5" width="48.6" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="npg-B8WdXjfn3l7shgS7-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="npg-B8WdXjfn3l7shgS7-51" target="npg-B8WdXjfn3l7shgS7-77">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="910" y="661" />
-              <mxPoint x="910" y="149" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="npg-B8WdXjfn3l7shgS7-79" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ETL抽取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="860" y="381" width="100" height="40" as="geometry" />
