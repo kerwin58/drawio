@@ -226,6 +226,15 @@
             <mxPoint x="475" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZmFsVwPLsDHrUgONcmU9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZmFsVwPLsDHrUgONcmU9-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="475" y="360" />
+              <mxPoint x="911" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZmFsVwPLsDHrUgONcmU9-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;业务通用版&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#00CC66;" vertex="1" parent="1">
           <mxGeometry x="400" y="427.5" width="150" height="40" as="geometry" />
         </mxCell>
@@ -255,11 +264,6 @@
         </mxCell>
         <mxCell id="ZmFsVwPLsDHrUgONcmU9-15" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="811.5" y="377.5" width="200" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="ZmFsVwPLsDHrUgONcmU9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZmFsVwPLsDHrUgONcmU9-15" source="ZmFsVwPLsDHrUgONcmU9-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="-87.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ZmFsVwPLsDHrUgONcmU9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZmFsVwPLsDHrUgONcmU9-15" source="ZmFsVwPLsDHrUgONcmU9-8">
           <mxGeometry relative="1" as="geometry">
