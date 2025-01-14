@@ -194,6 +194,28 @@
         <mxCell id="crEHzCxk1i2KfvFw_bIs-8" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" parent="1" vertex="1">
           <mxGeometry x="920" y="556.5" width="50" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="U4CCf6EG_1-U3IRZvE-q-2" value="视频服务" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Video_Analyzers.svg;" vertex="1" parent="1">
+          <mxGeometry x="150" y="565.5" width="42.11" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U4CCf6EG_1-U3IRZvE-q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.139;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U4CCf6EG_1-U3IRZvE-q-2" target="npg-B8WdXjfn3l7shgS7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4CCf6EG_1-U3IRZvE-q-4" value="视频服务" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Video_Analyzers.svg;" vertex="1" parent="1">
+          <mxGeometry x="334" y="565.5" width="42.11" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U4CCf6EG_1-U3IRZvE-q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.139;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U4CCf6EG_1-U3IRZvE-q-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="531" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4CCf6EG_1-U3IRZvE-q-6" value="视频服务" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Video_Analyzers.svg;" vertex="1" parent="1">
+          <mxGeometry x="513" y="565.5" width="42.11" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U4CCf6EG_1-U3IRZvE-q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.139;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U4CCf6EG_1-U3IRZvE-q-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="534" y="531" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
