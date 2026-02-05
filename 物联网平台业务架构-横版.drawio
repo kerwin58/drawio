@@ -16,10 +16,10 @@
           <mxGeometry height="30" width="140" x="545" y="20" as="geometry" />
         </mxCell>
         <mxCell id="fYVsCfDwf8Fn05hYmxzX-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8D38;" value="" vertex="1">
-          <mxGeometry height="840" width="270" x="880" y="80" as="geometry" />
+          <mxGeometry height="860" width="270" x="880" y="60" as="geometry" />
         </mxCell>
         <mxCell id="fYVsCfDwf8Fn05hYmxzX-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#0F8D38;fillColor=light-dark(#0f8d38, #268258);align=center;verticalAlign=middle;rounded=0;gradientColor=none;" value="&lt;font color=&quot;#ffffff&quot;&gt;标准规范体系&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="945" y="80" as="geometry" />
+          <mxGeometry height="30" width="140" x="945" y="60" as="geometry" />
         </mxCell>
         <mxCell id="fYVsCfDwf8Fn05hYmxzX-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8D38;" value="" vertex="1">
           <mxGeometry height="160" width="1120" x="60" y="-190" as="geometry" />
