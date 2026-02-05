@@ -53,7 +53,7 @@
           <mxGeometry height="110.00000000000001" width="903.0000000000001" as="geometry" />
         </mxCell>
         <mxCell id="fYVsCfDwf8Fn05hYmxzX-18" parent="fYVsCfDwf8Fn05hYmxzX-16" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0F8D38;strokeColor=#0F8D38;fontColor=#FFFFFF;" value="边缘层&lt;div&gt;Edge&lt;/div&gt;" vertex="1">
-          <mxGeometry height="97.05882352941177" width="73.21621621621622" x="12.202702702702704" y="6.470588235294118" as="geometry" />
+          <mxGeometry height="97.06" width="61.8" x="8.2" y="6.47" as="geometry" />
         </mxCell>
         <mxCell id="fYVsCfDwf8Fn05hYmxzX-19" parent="fYVsCfDwf8Fn05hYmxzX-16" style="rounded=0;whiteSpace=wrap;html=1;" value="智能边缘网关&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;" vertex="1">
           <mxGeometry height="38.82352941176471" width="146.43243243243245" x="125.68783783783785" y="35.58823529411765" as="geometry" />
@@ -85,7 +85,7 @@
           <mxGeometry height="80.00000000000001" width="903.0000000000001" as="geometry" />
         </mxCell>
         <mxCell id="fYVsCfDwf8Fn05hYmxzX-74" parent="fYVsCfDwf8Fn05hYmxzX-70" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0F8D38;strokeColor=#0F8D38;fontColor=#FFFFFF;" value="传输层" vertex="1">
-          <mxGeometry height="70.58823529411765" width="73.21621621621622" x="12.202702702702704" y="4.705882352941177" as="geometry" />
+          <mxGeometry height="70.59" width="61.8" x="8.2" y="4.71" as="geometry" />
         </mxCell>
         <mxCell id="fYVsCfDwf8Fn05hYmxzX-75" parent="fYVsCfDwf8Fn05hYmxzX-70" style="rounded=0;whiteSpace=wrap;html=1;" value="高速光纤骨干网" vertex="1">
           <mxGeometry height="38.23529411764706" width="146.43243243243245" x="125.68783783783785" y="20.88235294117647" as="geometry" />
@@ -360,7 +360,7 @@
           <mxGeometry height="170" width="903.0000000000001" as="geometry" />
         </mxCell>
         <mxCell id="fYVsCfDwf8Fn05hYmxzX-26" parent="r75URxYfr7f48g34wXHQ-10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0F8D38;strokeColor=#0F8D38;fontColor=#FFFFFF;" value="感知层" vertex="1">
-          <mxGeometry height="150" width="73.21621621621622" x="12.202702702702704" y="10" as="geometry" />
+          <mxGeometry height="150" width="63" x="9.2" y="10" as="geometry" />
         </mxCell>
         <mxCell id="fYVsCfDwf8Fn05hYmxzX-27" connectable="0" parent="r75URxYfr7f48g34wXHQ-10" style="group" value="" vertex="1">
           <mxGeometry height="80" width="104.18667567567567" x="85.41891891891892" y="10" as="geometry" />
