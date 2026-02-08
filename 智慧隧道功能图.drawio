@@ -1,0 +1,319 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.7">
+  <diagram name="第 1 页" id="ha2byB0j6u5XDo5gefY_">
+    <mxGraphModel dx="976" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;智慧隧道综合监控管理平台&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="260" x="670" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-65" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;首页&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="60" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-67" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;运营管控&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="220" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-68" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;运行监测&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="460" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-69" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;应急处置&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="715" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-70" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;资产运维&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="900" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-71" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;能耗管控&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="1070" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-72" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;统计分析&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="1230" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-73" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;系统管理&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="1390" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-26" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;G&lt;/font&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;IS&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;地&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;图&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="105" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-21" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;总体监控&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="190" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-22" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;消防控制&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="240" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-23" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;电话与广播控制&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="290" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-25" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;联动控制&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="340" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-28" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;总体监测&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="405" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-29" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;交通状况监测&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="455" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-30" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;气象环境监测&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="505" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-32" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;火灾报警监测&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="605" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-31" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;网络监测&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="555" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-38" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;预案分区&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="660" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-43" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;预案创建及展示&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="710" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-40" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;预案演练&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="760" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-41" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;预案执行报告&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="810" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-42" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;应急资源&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="860" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-48" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产管理&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="920" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-49" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;设备巡检&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="970" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-51" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;实时监测&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="1065" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-52" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;能耗分析&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="1115" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-53" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;能耗流向图&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="1165" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-60" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;统计报表&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="1250" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-61" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据分析&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="1300" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-62" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;用户管理&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="1385" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-63" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;权限管理&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="1435" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-64" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;无纸化办公&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="30" x="1485" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-82" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="&lt;span style=&quot;text-align: start; font-family: 宋体;&quot;&gt;&lt;font&gt;交通状况报表&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="1144" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-81" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="&lt;span style=&quot;text-align: start; font-family: 宋体;&quot;&gt;&lt;font&gt;气象环境报表&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="1144" y="482" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-80" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="&lt;span style=&quot;text-align: start; font-family: 宋体;&quot;&gt;&lt;font&gt;能耗数据报表&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="1144" y="523" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-79" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="&lt;span style=&quot;text-align: start; font-family: 宋体;&quot;&gt;&lt;font&gt;日志记录&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="1144" y="564.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-90" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="&lt;span style=&quot;text-align: start; font-family: 宋体;&quot;&gt;&lt;font&gt;交通流量变化趋势分析&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="125" x="1335" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-89" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="&lt;span style=&quot;text-align: start; font-family: 宋体;&quot;&gt;&lt;font&gt;照度亮度的变化趋势&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="125" x="1335" y="482" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-88" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="&lt;span style=&quot;text-align: start; font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;COVI&lt;/font&gt;&lt;font face=&quot;宋体&quot; style=&quot;&quot;&gt;的变化趋势&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="125" x="1335" y="523" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-87" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="&lt;span style=&quot;text-align: start; font-family: 宋体;&quot;&gt;&lt;font&gt;异常事件分析&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="125" x="1335" y="564.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-112" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;交接班记录&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1530" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-111" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;电话记录&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1530" y="482" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-110" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;情报板发布记录&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1530" y="523" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-109" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;故障上报记录&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1530" y="564.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-108" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;停电统计表&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1530" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-107" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;雾灯开关记录&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1530" y="652" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-106" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;消防控制室值班记录&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1530" y="693" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-105" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;隧道照明开关记录&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1530" y="734.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-104" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;设施设备维修记录&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1530" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-103" edge="1" parent="1" source="LANfwcjkdmLFZbXV-NBd-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="LANfwcjkdmLFZbXV-NBd-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LANfwcjkdmLFZbXV-NBd-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;突发事件记录&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1530" y="822" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
