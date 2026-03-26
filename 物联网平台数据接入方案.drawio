@@ -51,6 +51,14 @@
         <mxCell id="8s6iI8U-sP4mtFpJS7VX-22" edge="1" parent="1" source="8s6iI8U-sP4mtFpJS7VX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8s6iI8U-sP4mtFpJS7VX-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8s6iI8U-sP4mtFpJS7VX-34" edge="1" parent="1" source="8s6iI8U-sP4mtFpJS7VX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8s6iI8U-sP4mtFpJS7VX-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8s6iI8U-sP4mtFpJS7VX-36" connectable="0" parent="8s6iI8U-sP4mtFpJS7VX-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="原有链路 100% 保留，零改动" vertex="1">
+          <mxGeometry relative="1" x="0.1303" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8s6iI8U-sP4mtFpJS7VX-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="设备" vertex="1">
           <mxGeometry height="30" width="60" x="140" y="-895" as="geometry" />
         </mxCell>
@@ -58,21 +66,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8s6iI8U-sP4mtFpJS7VX-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="接入网关" vertex="1">
-          <mxGeometry height="30" width="60" x="270" y="-895" as="geometry" />
+          <mxGeometry height="30" width="60" x="270" y="-830" as="geometry" />
         </mxCell>
-        <mxCell id="8s6iI8U-sP4mtFpJS7VX-26" edge="1" parent="1" source="8s6iI8U-sP4mtFpJS7VX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8s6iI8U-sP4mtFpJS7VX-30">
+        <mxCell id="8s6iI8U-sP4mtFpJS7VX-27" edge="1" parent="1" source="8s6iI8U-sP4mtFpJS7VX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="8s6iI8U-sP4mtFpJS7VX-31">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8s6iI8U-sP4mtFpJS7VX-27" edge="1" parent="1" source="8s6iI8U-sP4mtFpJS7VX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="8s6iI8U-sP4mtFpJS7VX-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8s6iI8U-sP4mtFpJS7VX-28" connectable="0" parent="8s6iI8U-sP4mtFpJS7VX-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="实时同步" vertex="1">
-          <mxGeometry relative="1" x="-0.6948" y="-2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="8s6iI8U-sP4mtFpJS7VX-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="边缘物联网平台" vertex="1">
-          <mxGeometry height="30" width="90" x="400" y="-895" as="geometry" />
+          <mxGeometry height="30" width="90" x="380" y="-830" as="geometry" />
         </mxCell>
         <mxCell id="8s6iI8U-sP4mtFpJS7VX-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="本地业务系统" vertex="1">
           <mxGeometry height="30" width="90" x="560" y="-895" as="geometry" />
