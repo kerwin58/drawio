@@ -4,6 +4,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1GhbS6bpMgYbWgh2I3wn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0F8D38;fontColor=#FFFFFF;fontSize=16;strokeColor=none;" value="&lt;b&gt;高速公路物联网平台&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="564" x="132" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1GhbS6bpMgYbWgh2I3wn-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=none;fontColor=#1A1A1A;fontStyle=1;fontSize=16;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;产品管理&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="132" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1GhbS6bpMgYbWgh2I3wn-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: rgb(59 130 246/0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border: 0px solid rgb(229, 231, 235); color: rgb(46, 43, 41); font-family: Inter, &amp;quot;Inter Fallback&amp;quot;, ui-sans-serif, system-ui, sans-serif; text-align: start;&quot;&gt;产品驱动&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="132" y="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
