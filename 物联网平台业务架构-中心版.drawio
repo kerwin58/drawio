@@ -316,11 +316,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="46SlUKhQ-cLzm4B0Bqif-140" connectable="0" parent="46SlUKhQ-cLzm4B0Bqif-139" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;网关认证&lt;/font&gt;" vertex="1">
-          <mxGeometry relative="1" x="1119" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="46SlUKhQ-cLzm4B0Bqif-143" edge="1" parent="1" source="IiPkDggtq-TNwIEiwpKf-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="46SlUKhQ-cLzm4B0Bqif-131">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
